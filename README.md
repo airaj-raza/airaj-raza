@@ -65,7 +65,7 @@ Here are some of my projects where I've applied DevOps practices:
 - **Degree**: [Bachelors in Computer Science], [University of Management and Technology], [2020]
 - **Certifications**: 
   - AWS Solutions Architect Badge
-    ![AWS Solutions Architect Badge](https://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031/public_url)
+    ![AWS Solutions Architect Badge](https://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031.png)
   - AWS Cloud Practioner
     ![AWS Cloud Practioner](https://www.credly.com/badges/6d584da5-6e3e-4721-b43f-e6875b8853a3/public_url)
   - AWS Knowledge: Compute Badge
@@ -77,18 +77,7 @@ Here are some of my projects where I've applied DevOps practices:
   - AWS Knowledge: File Storage Badge
     ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf/public_url)
   - AWS Knowledge: Cloud Essentials Badge
-    ![AWS Knowledge: Cloud Essentials Badge](https://www.credly.com/badges/6b4c68c3-48a6-4422-8eca-3e78204dc60a/public_url)    
----
-
-## 🧩 **Open Source Contributions**
-
-I am an active contributor to the open-source community. Here are some of the repositories I've contributed to:
-
-- **[Open Source Project 1](https://github.com/someone/repository)**: Contributed to creating Helm charts for Kubernetes deployments.
-- **[Open Source Project 2](https://github.com/anotheruser/repository)**: Helped automate containerized application deployments using Terraform and AWS.
-
-You can check out my contributions on my [GitHub profile](https://github.com/yourusername).
-
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d584da5-6e3e-4721-b43f-e6875b8853a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>    
 ---
 
 ## 📞 **Contact Me**
@@ -99,23 +88,7 @@ If you'd like to get in touch for collaborations, job opportunities, or just to 
 - 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 🌍 **Personal Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
 
----
 
-## 🏆 **Achievements**
-
-Here are some highlights of my professional journey:
-
-- **DevOps Engineer of the Year**: [Year] – Awarded for excellence in implementing cloud-native solutions.
-- **Hackathon Winner**: [Year] – First place for a cloud automation solution.
-
----
-
-## 💬 **Testimonials**
-
-> *“[Your Name] is a highly skilled DevOps engineer who helped streamline our CI/CD processes and significantly improved our cloud infrastructure scalability.”*  
-> – [Colleague Name], [Position], [Company]
-
----
 
 ## 📈 **GitHub Stats**
 
