@@ -64,12 +64,10 @@ If you'd like to get in touch for collaborations, job opportunities, or just to 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-These dynamic charts are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-###
+##
 <br clear="both">
 <img src="https://raw.githubusercontent.com/airaj-raza/airaj-raza/output/snake.svg" alt="Snake animation" />
-###
+##
 
 ---
 
