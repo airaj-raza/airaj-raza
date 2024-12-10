@@ -77,7 +77,7 @@ Here are some of my projects where I've applied DevOps practices:
   - AWS Knowledge: File Storage Badge
     ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf/public_url)
   - AWS Knowledge: Cloud Essentials Badge
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d584da5-6e3e-4721-b43f-e6875b8853a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>    
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d584da5-6e3e-4721-b43f-e6875b8853a3" data-share-badge-host="https://www.credly.com"></div>    
 ---
 
 ## 📞 **Contact Me**
