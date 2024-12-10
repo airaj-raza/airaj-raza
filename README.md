@@ -1,12 +1,12 @@
 # 🧑‍💻 **DevOps Engineer Portfolio**
 
-Welcome to my DevOps Engineer portfolio! I'm **[Your Name]**, a DevOps engineer with expertise in CI/CD pipelines, cloud infrastructure, automation, and system scalability. This repository showcases my projects, skills, and contributions to the tech community.
+Welcome to my portfolio! I'm **Syed Airaj Raza**, a DevOps engineer with expertise in CI/CD pipelines, cloud infrastructure, automation, and system scalability. This repository showcases my projects, skills, and contributions to the tech community.
 
 ---
 
 ## 🚀 **About Me**
 
-Hi, I’m **[Your Name]**, a DevOps Engineer with a passion for automation, scalability, and continuous improvement. I specialize in building and maintaining CI/CD pipelines, managing cloud infrastructure, and enabling collaboration between development and operations teams to deliver software efficiently and reliably.
+Hi, I’m **Syed Airaj Raza**, a DevOps Engineer with a passion for automation, scalability, and continuous improvement. I specialize in building and maintaining CI/CD pipelines, managing cloud infrastructure, and enabling collaboration between development and operations teams to deliver software efficiently and reliably.
 
 - 🔭 **Current Focus**: Implementing automated infrastructure with Terraform, Kubernetes, and AWS, and optimizing CI/CD pipelines.
 - 🌱 **Learning**: Exploring machine learning integration in DevOps and cloud-native tools like Kubernetes.
@@ -62,12 +62,22 @@ Here are some of my projects where I've applied DevOps practices:
 
 ## 🧑‍🏫 **Education**
 
-- **Degree**: [Your Degree], [University Name], [Year]
+- **Degree**: [Bachelors in Computer Science], [University of Management and Technology], [2020]
 - **Certifications**: 
-  - AWS Certified Solutions Architect – Associate
-  - Docker Certified Associate
-  - Certified Kubernetes Administrator (CKA)
-
+  - AWS Solutions Architect Badge
+    ![AWS Solutions Architect Badge](https://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031)
+  - AWS Cloud Practioner
+    ![AWS Cloud Practioner](https://www.credly.com/badges/6d584da5-6e3e-4721-b43f-e6875b8853a3)
+  - AWS Knowledge: Compute Badge
+    ![AWS Knowledge: Compute Badge](https://www.credly.com/badges/9086bec2-505c-418f-8619-b46404817413)
+  - AWS Knowlegde: Data Protection & Disaster Recovery Badge
+    ![AWS Knowlegde: Data Protection & Disaster Recovery Badge](https://www.credly.com/badges/60f2463c-de22-4837-987b-072698a1a4fa)
+  - AWS Knowledge: Object Storage Badge 
+    ![AWS Knowledge: Object Storage Badge](https://www.credly.com/badges/9239bb0c-3334-477c-b6d1-4ae3cfae9e02)
+  - AWS Knowledge: File Storage Badge
+    ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf)
+  - AWS Knowledge: Cloud Essentials Badge
+    ![AWS Knowledge: Cloud Essentials Badge](https://www.credly.com/badges/6b4c68c3-48a6-4422-8eca-3e78204dc60a)    
 ---
 
 ## 🧩 **Open Source Contributions**
