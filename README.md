@@ -54,8 +54,8 @@ Here are the tools and technologies I frequently work with in my DevOps career:
 
 If you'd like to get in touch for collaborations, job opportunities, or just to chat about DevOps and automation, feel free to reach out:
 
-- 📧 **Email**: [youremail@example.com](mailto:syed.airaj.raza@gmail.com)
-- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/syed-airaj-raza-b156581b6/)
+- 📧 **Email**: [syed.airaj.raza@gmail.com](mailto:syed.airaj.raza@gmail.com)
+- 🌐 **LinkedIn**: [Syed Airaj Raza](https://www.linkedin.com/in/syed-airaj-raza-b156581b6/)
 
 
 
