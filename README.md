@@ -66,7 +66,10 @@ If you'd like to get in touch for collaborations, job opportunities, or just to 
 
 These dynamic charts are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
 
+###
+<br clear="both">
 <img src="https://raw.githubusercontent.com/airaj-raza/airaj-raza/output/snake.svg" alt="Snake animation" />
+###
 
 ---
 
