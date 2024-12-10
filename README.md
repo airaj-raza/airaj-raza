@@ -34,6 +34,7 @@ Here are the tools and technologies I frequently work with in my DevOps career:
 ## 🧑‍🏫 **Education**
 
 - **Degree**: [Bachelors in Computer Science], [University of Management and Technology], [2020]
+- **Badges and Certifications**
 <!--START_SECTION:badges-->
 
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/6d584da5-6e3e-4721-b43f-e6875b8853a3 "AWS Cloud Quest: Cloud Practitioner")
