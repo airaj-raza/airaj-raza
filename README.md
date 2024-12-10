@@ -65,19 +65,19 @@ Here are some of my projects where I've applied DevOps practices:
 - **Degree**: [Bachelors in Computer Science], [University of Management and Technology], [2020]
 - **Certifications**: 
   - AWS Solutions Architect Badge
-    ![AWS Solutions Architect Badge](https://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031)
+    ![AWS Solutions Architect Badge](https://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031/public_url)
   - AWS Cloud Practioner
-    ![AWS Cloud Practioner](https://www.credly.com/badges/6d584da5-6e3e-4721-b43f-e6875b8853a3)
+    ![AWS Cloud Practioner](https://www.credly.com/badges/6d584da5-6e3e-4721-b43f-e6875b8853a3/public_url)
   - AWS Knowledge: Compute Badge
-    ![AWS Knowledge: Compute Badge](https://www.credly.com/badges/9086bec2-505c-418f-8619-b46404817413)
+    ![AWS Knowledge: Compute Badge](https://www.credly.com/badges/9086bec2-505c-418f-8619-b46404817413/public_url)
   - AWS Knowlegde: Data Protection & Disaster Recovery Badge
-    ![AWS Knowlegde: Data Protection & Disaster Recovery Badge](https://www.credly.com/badges/60f2463c-de22-4837-987b-072698a1a4fa)
+    ![AWS Knowlegde: Data Protection & Disaster Recovery Badge](https://www.credly.com/badges/60f2463c-de22-4837-987b-072698a1a4fa/public_url)
   - AWS Knowledge: Object Storage Badge 
-    ![AWS Knowledge: Object Storage Badge](https://www.credly.com/badges/9239bb0c-3334-477c-b6d1-4ae3cfae9e02)
+    ![AWS Knowledge: Object Storage Badge](https://www.credly.com/badges/9239bb0c-3334-477c-b6d1-4ae3cfae9e02/public_url)
   - AWS Knowledge: File Storage Badge
-    ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf)
+    ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf/public_url)
   - AWS Knowledge: Cloud Essentials Badge
-    ![AWS Knowledge: Cloud Essentials Badge](https://www.credly.com/badges/6b4c68c3-48a6-4422-8eca-3e78204dc60a)    
+    ![AWS Knowledge: Cloud Essentials Badge](https://www.credly.com/badges/6b4c68c3-48a6-4422-8eca-3e78204dc60a/public_url)    
 ---
 
 ## 🧩 **Open Source Contributions**
