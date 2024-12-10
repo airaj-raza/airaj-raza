@@ -31,35 +31,6 @@ Here are the tools and technologies I frequently work with in my DevOps career:
 
 ---
 
-## 💼 **My Projects**
-
-Here are some of my projects where I've applied DevOps practices:
-
-### 1. **CI/CD Pipeline Automation** 🛠️
-   - **Description**: A fully automated CI/CD pipeline for a microservices application using Jenkins, Docker, and Kubernetes. Includes automated testing, deployment, and monitoring.
-   - **Technologies Used**: Jenkins, Docker, Kubernetes, Helm, Prometheus
-   - **Link**: [CI/CD Pipeline GitHub](https://github.com/yourusername/projectname)
-   - ![CI/CD Demo](https://media.giphy.com/media/3oEjI6S7O2MPo5P4h6/giphy.gif)  
-   *(Add a project demo gif here)*
-
-### 2. **Infrastructure as Code with Terraform** 🌍
-   - **Description**: Automated cloud infrastructure provisioning using Terraform for an AWS environment, including VPC, EC2, S3, and RDS services.
-   - **Technologies Used**: Terraform, AWS, CloudFormation
-   - **Link**: [Terraform Infrastructure GitHub](https://github.com/yourusername/projectname)
-   - ![Infrastructure Demo](https://media.giphy.com/media/l2JHWfjiFsnvLfKH6/giphy.gif)  
-   *(Add a project demo gif here)*
-
-### 3. **Kubernetes Cluster Management** 📦
-   - **Description**: Set up and managed a scalable Kubernetes cluster on AWS using EKS (Elastic Kubernetes Service), including Helm charts and auto-scaling.
-   - **Technologies Used**: Kubernetes, AWS EKS, Helm, Terraform
-   - **Link**: [Kubernetes Setup GitHub](https://github.com/yourusername/projectname)
-   - ![Kubernetes Demo](https://media.giphy.com/media/f9Z0KhA0ZJjOA/giphy.gif)  
-   *(Add a project demo gif here)*
-
-> Feel free to explore all my projects in my [GitHub repositories](https://github.com/yourusername).
-
----
-
 ## 🧑‍🏫 **Education**
 
 - **Degree**: [Bachelors in Computer Science], [University of Management and Technology], [2020]
@@ -76,17 +47,15 @@ Here are some of my projects where I've applied DevOps practices:
     ![AWS Knowledge: Object Storage Badge](https://www.credly.com/badges/9239bb0c-3334-477c-b6d1-4ae3cfae9e02/public_url)
   - AWS Knowledge: File Storage Badge
     ![AWS Knowledge: File Storage Badge](https://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf/public_url)
-  - AWS Knowledge: Cloud Essentials Badge
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6d584da5-6e3e-4721-b43f-e6875b8853a3" data-share-badge-host="https://www.credly.com"></div>    
+  - AWS Knowledge: Cloud Essentials Badge   
 ---
 
 ## 📞 **Contact Me**
 
 If you'd like to get in touch for collaborations, job opportunities, or just to chat about DevOps and automation, feel free to reach out:
 
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)
-- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌍 **Personal Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
+- 📧 **Email**: [youremail@example.com](mailto:syed.airaj.raza@gmail.com)
+- 🌐 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/syed-airaj-raza-b156581b6/)
 
 
 
@@ -96,6 +65,8 @@ If you'd like to get in touch for collaborations, job opportunities, or just to 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 These dynamic charts are powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
+
+![Your GitHub Contributions](https://contrib.rocks/images/github-contribution-grid-snake.svg)
 
 ---
 
