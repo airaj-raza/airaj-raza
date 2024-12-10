@@ -63,7 +63,7 @@ If you'd like to get in touch for collaborations, job opportunities, or just to 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=airaj-raza&show_icons=true&theme=radical&count_private=true" width="280" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airaj-raza&show_icons=true&theme=radical&layout=compact" width="270" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airaj-raza&show_icons=true&theme=radical&layout=compact" width="270" height="200" alt="languages graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/airaj-raza/airaj-raza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
