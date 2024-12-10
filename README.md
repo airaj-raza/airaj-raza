@@ -43,7 +43,7 @@ Here are the tools and technologies I frequently work with in my DevOps career:
 [![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/60f2463c-de22-4837-987b-072698a1a4fa "AWS Knowledge: Data Protection & Disaster Recovery")
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/9086bec2-505c-418f-8619-b46404817413 "AWS Knowledge: Compute")
 
-Find [all my badges on Credly.com](http://credly.com)
+Find [all my badges on Credly.com](https://www.credly.com/users/syed-airaj-raza)
 <!--END_SECTION:badges-->
 
 ## 📞 **Contact Me**
