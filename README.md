@@ -40,8 +40,8 @@ Here are the tools and technologies I frequently work with in my DevOps career:
 [![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](http://www.credly.com/badges/6b4c68c3-48a6-4422-8eca-3e78204dc60a "AWS Knowledge: Cloud Essentials")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/a0ae43fa-782f-47b9-868c-520559bf0031 "AWS Knowledge: Architecting")
 [![AWS Knowledge: Object Storage](https://images.credly.com/size/110x110/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png)](http://www.credly.com/badges/9239bb0c-3334-477c-b6d1-4ae3cfae9e02 "AWS Knowledge: Object Storage")
-[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf "AWS Knowledge: File Storage")
 [![AWS Knowledge: Data Protection & Disaster Recovery](https://images.credly.com/size/110x110/images/b8766b97-8362-4948-a08c-d4fbd2cda57c/image.png)](http://www.credly.com/badges/60f2463c-de22-4837-987b-072698a1a4fa "AWS Knowledge: Data Protection & Disaster Recovery")
+[![AWS Knowledge: File Storage](https://images.credly.com/size/110x110/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png)](http://www.credly.com/badges/124e52af-74b3-4e29-bd89-8abb28a66cbf "AWS Knowledge: File Storage")
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/9086bec2-505c-418f-8619-b46404817413 "AWS Knowledge: Compute")
 <!--END_SECTION:badges-->
 
